@@ -1,0 +1,15 @@
+1-View the history of the repository
+
+-Git log
+
+
+
+2-If there are outstanding commits to do
+
+-Git commit
+
+
+
+3-Start a new repository
+
+-Git inti
